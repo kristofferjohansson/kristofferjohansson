@@ -4,5 +4,4 @@ I'm a software developer based in Kungsbacka, Sweden. Currently, I'm focusing on
 
 [Website](https://kristofferjohansson.com)<br />
 [Bluesky](https://bsky.app/profile/kristofferjohansson.com)<br />
-[Mastodon](https://mastodon.kristofferjohansson.com/@kristoffer)<br />
 [LinkedIn](https://www.linkedin.com/in/kristofferjohansson)
